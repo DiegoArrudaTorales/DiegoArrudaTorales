@@ -1,4 +1,4 @@
-I work with data development for more than 3 years, currently I work as a data engineer, 
+I work with data development for more than 5 years, currently I work as a data engineer, 
 I have experience developing data integration solutions in a Big Data environment (Hadoop) using SQL,
 Scala and Azure and GCP technologies. I have great interest in the technological area: 
 Big Data, Data Engineering, Automation, Systems Development. I seek to pursue a career in Engineering and Data Science,
